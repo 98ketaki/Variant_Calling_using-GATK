@@ -1,4 +1,4 @@
-# Variant_Calling_using-GATK
+# Variant Calling using GATK
 
 To Determine the SNPs and indels in four given samples of Arabidopsis.  
 
