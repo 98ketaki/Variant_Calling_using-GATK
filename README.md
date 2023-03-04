@@ -1,6 +1,6 @@
 # Variant Calling using GATK
 
-To Determine the SNPs and indels in four given samples of Arabidopsis.  
+To Determine the SNPs and indels in two paired end samples  
 
 
 ## Setting up the environment and data preparation
