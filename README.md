@@ -25,7 +25,7 @@ mkdir output
 mkdir scripts
 mkdir reference
 ```
-The raw sequences data were placed in the directory "data" and the reference genome was placed in the directory "reference".
+The two paired end raw sequences data were placed in the directory "data" and the reference genome was placed in the directory "reference" as ref.fa.gz.
 
 
 ## Quality Check of the raw fastq data using fastqc
